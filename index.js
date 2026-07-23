@@ -1,4 +1,4 @@
-export * from './runder.js'
+export * from './renderer.js'
 export * from './camera.js'
 export * from './geometry.js'
 export * from './jolt.js'
