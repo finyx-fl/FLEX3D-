@@ -1,0 +1,28 @@
+FINYX Engine - Godot for the Web
+Copyright (c) 2026 finyx
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License version 3 as
+published by the Free Software Foundation.
+
+ADDITIONAL EXCEPTION - GAMES ARE FREE (FINYX EXCEPTION):
+
+As a special exception to the GPL, the copyright holder (finyx) gives
+permission to link this library with independent modules to produce an
+executable game, regardless of the license terms of these independent
+modules, and to copy and distribute the resulting executable under
+terms of your choice, provided that you also meet the terms of the GPL
+for the engine source code itself.
+
+In simple terms:
+- Engine source (core/, shaders/, systems/, tools/) = GPL-3.0 (if you modify it, you must share)
+- Your game code, your models, your .flex files, your final commercial game = ANY LICENSE YOU WANT
+
+This is the same model as Godot Engine with an explicit linking exception.
+
+Third-party components:
+- core/jolt.js is MIT Licensed by Jorrit Rouwe (JoltPhysics.js) - https://github.com/jrouwe/JoltPhysics.js
+  MIT license notice is preserved inside the file. MIT is compatible with GPL.
+
+For commercial licensing without GPL obligations on engine modifications,
+contact finyx.

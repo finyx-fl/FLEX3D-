@@ -1,0 +1,7 @@
+{
+  "name": "finyx-engine",
+  "version": "2.0.0",
+  "author": "finyx",
+  "license": "GPL-3.0-only WITH Classpath-exception-2.0",
+  "description": "FINYX - AAA Godot-like Engine for the Web. Engine is GPL, your games can be any license."
+}
